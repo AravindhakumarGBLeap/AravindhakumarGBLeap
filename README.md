@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AravindhakumarG
+- 👀 I’m interested in FULL STACK WEB DEVELOPMENT
+- 🌱 I’m currently experiencing in UI & UX Developer at BLeap
+- To know more about my working company <https://www.bleap.in>
+- 📫 How to reach me @aravindhakumar@bleap.in
